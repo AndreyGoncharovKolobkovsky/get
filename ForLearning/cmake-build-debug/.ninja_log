@@ -1,0 +1,13 @@
+# ninja log v5
+2	257	6853013491933513	CMakeFiles/ForLearning.dir/main.cpp.obj	8abdf89778c18c8c
+2	666	6853027559738182	CMakeFiles/ForLearning.dir/Main1.cpp.obj	89497432f4740479
+667	837	6853027561421099	ForLearning.exe	eba1beddfcd77a46
+2	44	6853029467524649	CMakeFiles/ForLearning.dir/Main2.cpp.obj	1ee68fb389c95e7a
+7	357	6853029470655356	CMakeFiles/ForLearning.dir/Main1.cpp.obj	89497432f4740479
+357	444	6853029471505547	ForLearning.exe	a620f996b2dbc9ab
+2	352	6853030335404525	CMakeFiles/ForLearning.dir/Main1.cpp.obj	89497432f4740479
+352	441	6853030336274720	ForLearning.exe	a620f996b2dbc9ab
+2	316	6853038911265324	CMakeFiles/ForLearning.dir/Main1.cpp.obj	89497432f4740479
+317	401	6853038912085515	ForLearning.exe	a620f996b2dbc9ab
+3	317	6853039273702660	CMakeFiles/ForLearning.dir/Main1.cpp.obj	89497432f4740479
+317	401	6853039274522847	ForLearning.exe	a620f996b2dbc9ab
